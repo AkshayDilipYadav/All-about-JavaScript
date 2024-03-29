@@ -18,5 +18,7 @@ let ageOfMales = males.map(function(male){
     return male.age
 })
 
+
+
 console.log(males)
 console.log(ageOfMales)
